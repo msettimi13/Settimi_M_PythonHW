@@ -10,4 +10,4 @@ computer_lives = 5
 total_lives = 5
 #start doing some logic and condition checking
 computer=weapons[randint(0,2)]
-player = False
+player = False 
